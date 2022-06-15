@@ -19,7 +19,8 @@ body {
     border-radius: 5px;
     margin: 1em;
     border-right: 12px solid #ffe100;
-    width: 300px;
+    width: 250px;
+    height: fit-content;
 }
 
 .time {
@@ -29,7 +30,17 @@ body {
 }
 
 .date {
-    color: #f5f5f5;
-    font-weight: 300;
-
+    color: beige;
+    font-weight: 200;
+    padding-bottom: .8em;
 }
+
+.stella-title {
+    color: beige;
+    font-size: 1.5em;
+    font-weight: 400;
+}
+/* h5 {
+    font-weight: 200;
+    font-style: italic;
+} */
